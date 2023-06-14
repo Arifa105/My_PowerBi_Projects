@@ -28,9 +28,14 @@ return if (wkd>5 ,"weekend", "weekday")
 Following steps that have done.
 
   1- Requirement gathering.
+  
   2- Data Collection
+  
   3- Data prepration
+  
   4- Data Modeling
+  
   5- Dashboard Building
+  
   6- Deployment
 
