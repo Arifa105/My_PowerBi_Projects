@@ -24,7 +24,7 @@ return if (wkd>5 ,"weekend", "weekday")
 
 
 
-# 2. Sales Insights Dashboard:
+# 2. Sales Insights Dashboard (PowerBi and SQL)
 Following steps that have done.
 
   1- Requirement gathering.
